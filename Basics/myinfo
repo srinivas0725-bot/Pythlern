@@ -1,0 +1,11 @@
+name = "Sri"
+age = 46
+city = "Hyderabad"
+country = "India"
+profession = "Python Learner"
+
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
+print("Country:", country)
+print("Profession:", profession)
