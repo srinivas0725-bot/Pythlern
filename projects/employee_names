@@ -1,0 +1,8 @@
+employees = []
+
+employees.append("Sri")
+employees.append("saba")
+employees.append("yasmeen")
+
+for employee in employees:
+    print(employee)
