@@ -1,0 +1,12 @@
+contacts = {
+    "Rahul": "9876543210",
+    "Priya": "9876501234",
+    "Ravi": "9123456789"
+}
+
+name = input("Enter contact name: ")
+
+if name in contacts:
+    print("Phone Number:", contacts[name])
+else:
+    print("Contact not found")
