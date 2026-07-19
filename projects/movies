@@ -1,0 +1,10 @@
+movies = [
+    "Inception",
+    "Interstellar",
+    "The Dark Knight"
+]
+
+print("Favorite Movies")
+
+for movie in movies:
+    print(movie)
