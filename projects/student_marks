@@ -1,0 +1,10 @@
+marks = [85, 90, 78, 88, 95]
+
+print("Student Marks")
+
+for mark in marks:
+    print(mark)
+
+print("Highest:", max(marks))
+print("Lowest:", min(marks))
+print("Average:", sum(marks) / len(marks))
